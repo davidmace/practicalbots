@@ -1,0 +1,38 @@
+N 0: zero
+N 1: one
+N 2: two
+N 3: three
+N 4: four
+N 5: five
+N 6: six
+N 7: seven
+N 8: eight
+N 9: nine
+N 10: ten
+N 11: eleven
+N 12: twelve
+N 13: thirteen
+N 14: fourteen
+N 15: fifteen
+N 16: sixteen
+N 17: seventeen
+N 18: eighteen
+N 19: nineteen
+N 20: twenty
+N 30: thirty
+N 40: forty
+N 50: fifty
+N 60: sixty
+N 70: seventy
+N 80: eighty
+N 90: ninety
+B 100: hundred
+B 1000: thousand
+B 1000000: million
+B 1000000000: billion
+B 0.5: halves half
+B 0.33: thirds third
+B 0.25: quarters fourths quarter fourth
+B 0.2: fifths fifth
+B 0.1: tenths tenth
+L: and_a and

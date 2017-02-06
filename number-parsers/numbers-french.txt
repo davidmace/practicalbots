@@ -1,0 +1,36 @@
+N 0: zéro 
+N 1: un et_un
+N 2: deux 
+N 3: trois 
+N 4: quatre 
+N 5: cinq 
+N 6: six 
+N 7: sept 
+N 8: huit 
+N 9: neuf
+N 10: dix 
+N 11: onze 
+N 12: douze 
+N 13: treize 
+N 14: quatorze 
+N 15: quinze 
+N 16: seize 
+N 17: dix-sept 
+N 18: dix-huit 
+N 19: dix-neuf
+N 20: vingt
+N 30: trente
+N 40: quarante
+N 50: cinquante
+N 60: soixante
+N 80: quatre-vingt
+B 100: cent cents
+B 1000: mille milles
+B 1000000: million millions
+B 1000000000: milliard milliards
+B 0.5: demi moitiés
+B 0.33: tiers tier
+B 0.25: quarts quart
+B 0.2: cinquièmes cinquième
+B 0.1: dixièmes dixième
+L: et

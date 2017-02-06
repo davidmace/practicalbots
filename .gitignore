@@ -1,0 +1,5 @@
+spelling-server/node_modules/
+duckling-server/node_modules/
+.ipynb_checkpoints/
+*.ipynb
+*.pyc
